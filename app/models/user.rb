@@ -57,10 +57,10 @@ class User < ActiveRecord::Base
 
   validates_attachment :document_copy_front, 
     content_type: { content_type: ["image/jpeg", "image/gif", "image/png", "application/pdf"] },
-    file_name: { matches: [/png\z/, /jpe?g\z/, /pdf\z/] }
+    file_name: { matches: [/png\z/i, /jpe?g\z/i, /pdf\z/i] }
   validates_attachment :document_copy_back, 
     content_type: { content_type: ["image/jpeg", "image/gif", "image/png", "application/pdf"] },
-    file_name: { matches: [/png\z/, /jpe?g\z/, /pdf\z/] }
+    file_name: { matches: [/png\z/i, /jpe?g\z/i, /pdf\z/i] }
 
   validates_attachment_presence :document_copy_front, unless: :verified?
   validates_attachment_presence :document_copy_back, unless: :verified?
