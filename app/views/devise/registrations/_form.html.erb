@@ -50,10 +50,10 @@
       </div>
 
       <div class="inputlabel-box">
-          <%= f.input :document_copy_front, label: 'O teu documento - frontal', as: :file, hint: 'Escanea o teu documento frontal', input_html: {class: 'input-xl', disabled: false} %>
+          <%= f.input :document_copy_front, label: 'O teu documento - frontal', as: :file, hint: 'Tamaño máximo 4 Mb. Tipos de arquivos admitidos: [jpeg, png, pdf]', input_html: {class: 'input-xl', disabled: false} %>
       </div>
       <div class="inputlabel-box">
-          <%= f.input :document_copy_back, label: 'O teu documento - traseira', as: :file, hint: 'Escanea o teu documento traseira', input_html: {class: 'input-xl', disabled: false} %>
+          <%= f.input :document_copy_back, label: 'O teu documento - traseira', as: :file, hint: 'Tamaño máximo 4 Mb. Tipos de arquivos admitidos: [jpeg, png, pdf]', input_html: {class: 'input-xl', disabled: false} %>
       </div>
     <% end %>
 
