@@ -12,7 +12,7 @@ ga:
         title: "Páxina non atopada"
         message_html: "Non puidemos atopar esa páxina. Tentao máis tarde ou <a href='/'>proba desde a páxina principal</a>."
       "500":
-        title: "Error no servidor" 
+        title: "Error no servidor"
         message_html: "Houbo un erro no servidor. Podes avisarnos en <a href='mailto:soporte@enmarea.gal'>soporte@enmarea.gal</a>"
     messages:
       not_valid_spanish_vat: O número de identificación fiscal non é válido
@@ -301,8 +301,8 @@ ga:
         province_town: "Provincia de orixe"
         postal_code: "Código postal"
         country: "País"
-        password: "Contrasinal"
-        password_confirmation: "Contrasinal (repetir)"
+        password: "Novo contrasinal"
+        password_confirmation: "Novo contrasinal (repetir)"
         remember_me: "Lembrarme"
         wants_newsletter: 'Newsletter'
         terms_of_service: "Lin e acepto as condicións xerais"
@@ -901,8 +901,8 @@ EN MAREA cumpre con todas as medidas de seguridade para a protección de datos p
       thanks: "Muchas gracias por colaborar. El cambio empieza gracias a ti."
   formtastic:
     labels:
-      first_name: "Nombre"
-      last_name: "Apellidos"
+      first_name: "Nome"
+      last_name: "Apelidos"
       document_vatid: "Nº de documento"
       email: "Correo electrónico"
       address: "Dirección"
@@ -912,7 +912,7 @@ EN MAREA cumpre con todas as medidas de seguridade para a protección de datos p
       terms_of_service: "Condiciones generales de la suscripción del nuevo microcrédito"
   simple_captcha:
     placeholder: "texto"
-    label: "Introduce el texto que se ve en la imagen"
-    refresh_button_text: "Regenerar"
+    label: "Introduce o texto que se ve na imaxe"
+    refresh_button_text: "Rexenerar"
     message:
-      default: "El texto introducido no corresponde con el de la imagen"
+      default: "O texto introducido non corresponde co da imaxe"
