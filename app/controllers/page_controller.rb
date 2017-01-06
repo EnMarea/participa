@@ -32,7 +32,7 @@ class PageController < ApplicationController
       authenticate_user! 
     end
     
-  	if /https:\/\/[a-z]*\.podemos.info\/.*/.match(@page.link)
+    if /https:\/\/[a-z]*\.enmarea.gal\/.*/.match(@page.link)
   		render :formview_iframe, locals: { title: @page.title, url: @page.link }
   	else
       render :form_iframe, locals: { title: @page.title, form_id: @page.id_form, extra_qs:"" }

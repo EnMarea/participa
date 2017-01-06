@@ -4,10 +4,8 @@ class DynamicRouter
   def self.load
     if ActiveRecord::Base.connection.table_exists? 'pages'
       Rails.application.routes.draw do
-        scope "/(:locale)", locale: /es|ca|eu/ do 
-          Page.all.each do |pag|
-            get "#{pag.slug}", :to => "page#show_form", defaults: { id: pag.id }
-          end
+        Page.all.each do |pag|
+          get "#{pag.slug}", :to => "page#show_form", defaults: { id: pag.id }
         end
       end
     end
