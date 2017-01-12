@@ -179,7 +179,8 @@ Rails.application.routes.draw do
     get code, to: 'errors#show', code: code
   end
 
-  DynamicRouter.load
+  #DynamicRouter.load
+  get '/f/:slug', to: 'page#show_form', as: 'form_page'
 
   # /admin
   ActiveAdmin.routes(self)
