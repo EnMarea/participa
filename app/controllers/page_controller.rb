@@ -22,7 +22,7 @@ class PageController < ApplicationController
   end
 
   def show_form
-    @page = Page.find(params[:id])
+    @page = Page.find_by(slug: params[:slug])
   	raise("not found") unless @page
 
     @meta_description = @page.meta_description if !@page.meta_description.blank?
