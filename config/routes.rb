@@ -78,6 +78,7 @@ Rails.application.routes.draw do
     post '/apoyar/:proposal_id', to: 'supports#create', as: 'proposal_supports'
 
     get :notices, to: 'notice#index', as: 'notices'
+=end
     get '/vote/create/:election_id', to: 'vote#create', as: :create_vote
     get '/vote/create_token/:election_id', to: 'vote#create_token', as: :create_token_vote
     get '/vote/check/:election_id', to: 'vote#check', as: :check_vote
@@ -87,7 +88,6 @@ Rails.application.routes.draw do
 
     get '/votos/:election_id/:hash', to: 'vote#election_votes_count', as: 'election_votes_count'
     get '/votos/:election_id/:election_location_id/:hash', to: 'vote#election_location_votes_count', as: 'election_location_votes_count'
-=end
 
   devise_for :users, controllers: { 
     registrations: 'registrations', 
