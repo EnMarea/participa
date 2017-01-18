@@ -214,4 +214,22 @@ class Election < ActiveRecord::Base
   def validate_hash _hash
     counter_hash == _hash
   end
+
+  def check_user_can_vote? user
+    # TODO: This would make more sense in the vote model.
+    if !self.is_active?
+      err = I18n.t("errors.messages.elections.no_active")
+    elsif !self.has_valid_user_created_at? user
+      err = I18n.t("errors.messages.elections.user_creation_not_in_range")
+    elsif !self.has_valid_location_for? user
+      err = I18n.t("errors.messages.elections.not_active_in_municipe")
+    elsif !user.verified?
+      err = I18n.t("errors.messages.elections.user_not_verified")
+    end
+
+    return {
+      error: err,
+      valid?: err.nil?
+    }
+  end
 end
