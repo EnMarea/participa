@@ -20,6 +20,11 @@ ga:
       not_valid_cif: O CIF non é válido
       not_valid_nie: O NIE non é válido
       url: "non é unha dirección web válida (ten que comezar con http:// ou https://)"
+      elections:
+          no_active: "Chegou a data límite para votar. A votación está pechada"
+          user_creation_not_in_range: "O teu usuario non ten a antigüidade requirida"
+          no_active_in_municipe: "A votación non está dispoñible no teu municipio"
+          user_not_verified: "Tes que estar verificado para poder votar. É un proceso manual polo que pode tardar varios días"
   activerecord:
     models:
       user: Usuario
@@ -314,6 +319,13 @@ ga:
         document_copy_back: "Documento - traseira"
       category:
         name: "nome"
+  pages:
+    tools:
+      elections:
+        header:
+          one: 'Hai unha votación en curso. Participa!'
+          other: 'Hay %{count} votacións en curso. Participa!'
+        power_by_agoravoting: 'Se utiliza el sistema seguro de'
   podemos:
     election:
       no_location: "No hay votaciones en tu municipio."
