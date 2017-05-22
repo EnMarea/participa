@@ -54,7 +54,7 @@
               <p>Accede al portal de participación y vota en "<%=@upcoming_election.title%>". Del <%=l(@upcoming_election.starts_at, format: if @upcoming_election.starts_at.month==@upcoming_election.ends_at.month then "%-d" else "%-d de %B" end )%> al <%=l(@upcoming_election.ends_at, format: "%-d de %B")%>.</p>
             <% end %>
             <% if @upcoming_election.user_created_at_max %>
-              <p>El censo válido para esta votación está cerrado desde el día <%=l(@upcoming_election.user_created_at_max, format: "%-d de %B de %Y a las %H:%M horas")%>.</p>
+              <p>O censo válido para esta votación está pechado dende o día 18 de maio de 2017 ás 23:59</p>
             <% end %>
                  <p>Censo chamado ao voto: 2061 </p>
           <% end %>
