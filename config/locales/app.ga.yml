@@ -476,6 +476,38 @@ se chegou ao cartafol de <em>correo electrónico non desexado</em>, <em>promoci�
 <p>Mentres non nos comunique o contrario, entenderemos que os seus datos non foron modificados, que vostede se compromete a notificarnos calquera variación e que temos o consentimento para utilizalos a fin de poder fidelizar a relación entre as partes.</p>
 <p>O usuario poderá exercer os dereitos de acceso, rectificación, cancelación, supresión, oposición, limitación do tratamento, portabilidade de datos e a non ser obxecto de decisións individualizadas, automatizadas, en relación cos datos obxecto do tratamento, ante o responsable do tratamento na dirección anteriormente mencionada, ou por correo electrónico a lopd@enmarea.gal, ou directamente ante o Delegado de Protección de Datos: dpd@enmarea.gal. No caso de que non obtivese satisfacción no exercicio dos seus dereitos, poderá presentar unha reclamación ante a Autoridade de Control en materia Protección de Datos competente.</p>
 '
+      cookies_policy:
+        title: 'Política de cookies'
+        text_html: '
+<h2>POLÍTICA DE COOKIES</h2>
+<p>En cumprimento do Real Decreto Lei 13/2012, do 30 de marzo polo que se modifica a Lei de Servizos de Sociedade da Información, e relativo á utilización de cookies en páxinas Webs; EN MAREA infórmalle que este sitio web www.medrando.enmarea.gal utiliza cookies para poder medir e analizar o tráfico da Web, para facilitarlle a súa experiencia como usuario e ofrecerlle un mellor servizo. Se o desexa pode configurar o seu navegador para ser avisado en pantalla da recepción de cookies ou ben para impedir a instalación das mesmas, tendo en conta que desta forma deixaría de ter acceso a certas funcións na internet.</p>
+<h3>¿QUÉ SON AS COOKIES?</h3>
+<p>As cookies son pequenos arquivos que algunhas plataformas, como as páxinas WEB, poden instalar no teu computador, smartphone, tableta ou televisión conectada, ao acceder ás mesmas. Unha cookie almacénase nestes dispositivos para personalizar e facilitar ao máximo a navegación do usuario/a. As cookies asócianse unicamente a un/a usuario/a e o seu dispositivo, e non proporcionan referencias que permitan deducir datos persoais do mesmo/a. O/a usuario/a poderá configurar o seu navegador para que notifique ou rexeite a instalación das cookies enviadas polo sitio web.</p>
+<p>As cookies permiten que as páxinas WEB funcionen de forma máis áxil e adaptada ás preferencias do usuario/a. Por exemplo, almacenando o seu idioma ou a moeda do seu país. Ademais, axudan aos/ as responsables dos sitios web para mellorar os servizos que ofrecen, grazas á información estatística que recollen a través delas. Finalmente, serven para facer máis eficiente a publicidade que se mostra, grazas á cal se poden ofrecer servizos de forma gratuíta.</p>
+<h3>¿PARA QUÉ UTILIZA AS COOKIES ESTA PÁXINA WEB E CALES SON?</h3>
+<p>Esta páxina Web utiliza as cookies para unha serie de finalidades, incluídas:</p>
+<ul>
+<li><b>Publicidade</b>: utilízanse este tipo de cookies para facer que a publicidade sexa máis atractiva para os usuarios e máis valiosa para os editores e anunciantes. As cookies adoitan utilizarse para seleccionar anuncios baseados en contido que é relevante para un usuario, mellorar os informes de rendemento da campaña e evitar mostrar anuncios que o usuario xa vise.</li>
+<li><b>Preferencias</b>: Estas cookies permiten que os nosos sitios web lembren información que cambia o aspecto ou o comportamento do sitio como, por exemplo, o teu idioma preferido ou a rexión na que che atopas. Por exemplo, ao lembrar a túa rexión, un sitio web pode proporcionarche noticias sobre o tráfico ou boletíns meteorolóxicos locais. Estas cookies tamén che permiten cambiar o tamaño do texto, a fonte e outras partes das páxinas web que podes personalizar.</li>
+<li><b>Análise</b>: son aquelas cookies que ben, tratadas por nós ou por terceiros, permítennos cuantificar o número de usuarios e así realizar a medición e análise estatístico da utilización que fan os usuarios do servizo. Para eles analízase a súa navegación na nosa páxina web co fin de mellorar a experiencia do usuario.</li>
+<li><b>Técnicas</b>: son aquelas cookies que permiten ao usuario a navegación a través da páxina web e a utilización das diferentes opcións ou servizos que nela existan.</li>
+</ul>
+<br/>
+<p>O detalle das cookies de terceiros utilizadas nesta páxina web é o seguinte:</p>
+<ul>
+<li><b>Google Analytics</b>: Recoller información sobre a navegación dos usuarios polo sitio co fin de coñecer a orixe das visitas e outros datos similares a nivel estatístico. Non obtén datos dos nomes ou apelidos dos usuarios nin da dirección postal concreta desde onde se conectan.</li>
+<li><b>New Relic</b>: Recoller información sobre a navegación dos usuarios polo sitio co fin de coñecer a orixe das visitas e outros datos similares a nivel estatístico. Non obtén datos dos nomes ou apelidos dos usuarios nin da dirección postal concreta desde onde se conectan.</li>
+<li><b>DoubleClick:</b> Usa cookies para mellorar a publicidade. Adoitan utilizarse para orientar a publicidade segundo o contido que é relevante para un usuario, mellorar os informes de rendemento da campaña e evitar mostrar anuncios que o usuario xa vise.</li>
+</ul>
+<h3>¿CÓMO DESACTIVAR OU ELIMINAR AS COOKIES?</h3>
+<p>Pode vostede permitir, bloquear ou eliminar as cookies instaladas no seu equipo mediante a configuración das opcións propias do navegador instalado no seu equipo informático:</p>
+<ul>
+<li><b>Chrome</b>: <a herf="https://support.google.com/accounts/answer/61416?hl=es">https://support.google.com/accounts/answer/61416?hl=es</a></li>
+<li><b>Firefox</b>: <a href=https://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we">https://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we</a></li>
+<li><b>Internet Explorer</b>: <a href=https://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9">https://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9</a></li>
+<li><b>Outros navegadores:</b> consulte a documentación do navegador que teña instalado</li>
+</ul>
+'
       conditions_use:
         title: 'Aviso legal'
         text_html: '
