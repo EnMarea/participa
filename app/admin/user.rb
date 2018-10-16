@@ -170,6 +170,9 @@ ActiveAdmin.register User do
       row :remember_created_at
       row :deleted_at
       row :participation_team_at
+      row 'telegram notifications' do |r|
+        r.telegram_notifications
+      end
     end
 
     panel "Votos" do
