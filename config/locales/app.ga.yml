@@ -464,6 +464,49 @@ se chegou ao cartafol de <em>correo electrónico non desexado</em>, <em>promoci�
 <p>No caso de que non obtivese satisfacción no exercicio dos seus dereitos, pode presentar unha reclamación ante a Autoridade de Control en materia Protección de Datos competente.</p>
 <p>No caso do envío de información/publicidade e non desexe seguir recibindo máis información respecto diso, vostede ten dereito a opoñerse e/ou retirar devandito consentimento, en calquera momento, facéndonolo chegar por escrito ou mediante correo electrónico na/ s dirección/é anteriormente indicada/s.</p>
 '
+    lopd:
+      privacy_policy:
+        title: 'Política de privacidade'
+        text_html: '
+<h2>POLÍTICA DE PRIVACIDADE</h2>
+<p>Infórmaselle que os datos persoais que nos facilite voluntariamente, a través dos distintos formularios da web, serán tratados por EN MAREA con domicilio en HORTA DE ABAIXO 5 B -4A 15220 - BERTAMIRANS (A Coruña), que cumpre coas medidas de seguridade esixidas na lexislación vixente en materia de Protección de Datos de Carácter Persoal. A finalidade do devandito tratamento é a descrita en cada un dos formularios establecidos na páxina web no que Vostede nos facilitou os seus datos.</p>
+<p>Os datos facilitados non serán cedidos a terceiros salvo nos casos en que exista unha obrigación legal, e conservaranse durante o tempo necesario para atender a súa solicitude a condición de que non nos indique o contrario exercendo o seu dereito de cancelación, ou durante o tempo necesario para cumprir coas obrigacións legais. </p>
+<p>EN MAREA non elaborará ningún tipo de “perfil”, en base á información facilitada. Non se tomarán decisións automatizadas en base a perfís. </p>
+<p>Así mesmo, EN MAREA cancelará ou rectificará os datos cando resulten inexactos, incompletos ou deixasen de ser necesarios para a súa finalidade, de conformidade co previsto na lexislación vixente en materia de Protección de Datos de Carácter Persoal.</p>
+<p>Mentres non nos comunique o contrario, entenderemos que os seus datos non foron modificados, que vostede se compromete a notificarnos calquera variación e que temos o consentimento para utilizalos a fin de poder fidelizar a relación entre as partes.</p>
+<p>O usuario poderá exercer os dereitos de acceso, rectificación, cancelación, supresión, oposición, limitación do tratamento, portabilidade de datos e a non ser obxecto de decisións individualizadas, automatizadas, en relación cos datos obxecto do tratamento, ante o responsable do tratamento na dirección anteriormente mencionada, ou por correo electrónico a lopd@enmarea.gal, ou directamente ante o Delegado de Protección de Datos: dpd@enmarea.gal. No caso de que non obtivese satisfacción no exercicio dos seus dereitos, poderá presentar unha reclamación ante a Autoridade de Control en materia Protección de Datos competente.</p>
+'
+      conditions_use:
+        title: 'Aviso legal'
+        text_html: '
+<h2>DATOS DA ORGANIZACIÓN</h2>
+<p>En cumprimento do artigo 10 da Lei 34/2002, do 11 de xullo, de Servizos da Sociedade da Información e Comercio Electrónico, EN MAREA infórmalle que os seus datos identificativos son os seguintes:</p>
+<p>Denominación social: EN MAREA<br/>
+C.I.F: V70498191<br/>
+Domicilio social: HORTA DE ABAIXO 5B - 4A 15220 - BERTAMIRANS (A CORUÑA)<br/>
+Teléfono: 881972355<br/>
+Delegado de Protección de Datos: BERTA BLANCO SILVA Teléfono:  677466218 Correo electrónico: dpd@enmarea.gal</p>
+<p>Todas as notificacións e comunicacións entre os usuarios e EN MAREA consideraranse eficaces, para todos os efectos, cando se realicen a través de correo postal ou calquera outro medio dos detallados anteriormente.</p>
+
+<h2>CONDICIÓNS DE ACCESO E UTILIZACIÓN</h2>
+<p>O presente aviso legal regula o uso do sitio web www.medrando.enmarea.gal (en diante, A WEB), do que é titular EN MAREA.</p>
+<p>A navegación pola web de EN MAREA atribúe a condición de usuario do mesmo e implica a aceptación plena e sen reservas de todas e cada unha das disposicións incluídas neste Aviso Legal, que poden sufrir modificacións.</p>
+<p>O sitio web e os seus servizos son de acceso libre e gratuíto, con todo, EN MAREA condiciona a utilización dalgúns dos servizos ofrecidos na súa web ao previo enchemento do correspondente formulario.</p>
+<p>Todos os contidos do sitio web, como textos, fotografías, gráficos, imaxes, iconas, tecnoloxía, software, así como o seu deseño e códigos fonte, constitúen unha obra cuxa propiedade pertence a EN MAREA, sen que poidan entenderse cedidos ao usuario ningún dos dereitos de explotación sobre os mesmos máis aló do estritamente necesario para o correcto uso da web. </p>
+<p>O usuario garante a autenticidade e actualidade de todos aqueles datos que comunique a EN MAREA e será o único responsable das manifestacións falsas ou inexactas que realice. O usuario obrígase a facer un uso correcto do sitio web de conformidade coas leis, a boa fe, a orde pública, os usos do tráfico e o presente Aviso Legal. O usuario responderá fronte a EN MAREA ou fronte a terceiros, de calquera danos e prexuízos que puidesen causarse como consecuencia do incumprimento da devandita obrigación.</p>
+
+<h2>POLÍTICA DE DE LIGAZÓNS E EXENCIÓNS DE RESPONSABILIDADES</h2>
+<p>EN MAREA non se fai responsable do contido das páxinas web ás que o usuario poida acceder a través das ligazóns establecidas na WEB e declara que en ningún caso procederá a examinar ou exercitar ningún tipo de control sobre o contido doutras páxinas da rede. Así mesmo, tampouco garantirá a dispoñibilidade técnica, exactitude, veracidade, validez ou legalidade de páxinas alleas á súa propiedade ás que se poida acceder por medio das ligazóns.</p>
+<p>EN MAREA declara adoptar todas as medidas necesarias para evitar calquera danos que, aos usuarios da WEB, puidesen derivarse da navegación pola mesma. En consecuencia, EN MAREA non se fai responsable, en ningún caso, dos eventuais danos que pola navegación por Internet puidese sufrir o usuario.</p>
+
+<h2>USO DE COOKIES E DATOS ESTATÍSTICOS</h2>
+<p>Esta páxina web pode recoller datos dos seus visitantes por medio do uso de cookies. Consultar a política de cookies, no seu caso.</p>
+<p>O usuario ten a posibilidade de configurar o seu navegador de modo que se lle informe da recepción de cookies, podendo, se así o desexa, impedir que sexan instaladas no seu disco duro.</p>
+<p>A AEPD considera que os partidos políticos non son prestadores de servizos da sociedade da información, xa que as súas páxinas web non forman parte dunha actividade económica no sentido do apartado a) do Anexo da LSSI. Por tanto, non han de cumprir nin coa Lei de Cookies nin con ningún outro precepto da LSSI, sen prexuízo do disposto nela en relación con outras normas. Resolución (E/04745/2015).</p>
+
+<h2>PROTECCIÓN DE DATOS</h2>
+<p>No caso de que na web recóllanse datos de carácter persoal, para máis información consultar a <a href="/privacy-policy"> política de privacidade.</a></p>
+'
     legacy:
       password:
         title: "Cambiar contraseña antigua"
