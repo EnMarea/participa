@@ -212,6 +212,20 @@
         </div>
 
         <div class="inputlabel-box">
+          <%= f.label :telegram_notifications %>
+          <div class="input-box">
+            <div class="radio-option">
+              <%= f.label :telegram_notifications, "SI", :value => "true" %>
+              <%= f.radio_button :telegram_notifications, true %>
+            </div>
+            <div class="radio-option">
+              <%= f.label :telegram_notifications, "NON", :value => "false" %>
+              <%= f.radio_button :telegram_notifications, false, :checked => true %>
+            </div>
+          </div>
+        </div>
+
+        <div class="inputlabel-box">
           <% if resource.errors.include?(:captcha) %>
               <%= field_notice_box %>
           <% end %>

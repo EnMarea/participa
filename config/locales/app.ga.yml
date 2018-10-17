@@ -317,6 +317,7 @@ ga:
         circle: "Círculo"
         document_copy_front: "Documento - frontal"
         document_copy_back: "Documento - traseira"
+        telegram_notifications: "Acepto o envío de comunicacións a través de telegram."
       category:
         name: "nome"
   pages:

@@ -11,10 +11,10 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20161209120417) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+ActiveRecord::Schema.define(version: 20181015163752) do
 
   create_table "active_admin_comments", force: :cascade do |t|
     t.string   "namespace"
@@ -612,6 +612,7 @@ ActiveRecord::Schema.define(version: 20161209120417) do
     t.string   "document_copy_back_content_type"
     t.integer  "document_copy_back_file_size"
     t.datetime "document_copy_back_updated_at"
+    t.boolean  "telegram_notifications"
   end
 
   add_index "users", ["confirmation_token"], name: "index_users_on_confirmation_token", unique: true, using: :btree

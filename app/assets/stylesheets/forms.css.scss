@@ -729,6 +729,18 @@ layout 4+: 978-...+ # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
     margin-right:2%;
     clear:none;
   }
+
+  .content-content .radio-option{
+    label{
+      width: 7%;
+      color: #666;
+    }
+    input{
+      margin-top: 2%;
+      margin-right: 15%;
+    }
+  }
+
   .content-content span.no-input,
   fieldset .inputlabel-box .input-box,
   fieldset .inputlabel-box .form-wrapper{
