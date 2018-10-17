@@ -457,37 +457,87 @@ se chegou ao cartafol de <em>correo electrónico non desexado</em>, <em>promoci�
         title: 'Condiciones generales'
         p1_html: '
 <h2>Condicións xerais de inscrición e política de privacidade</h2>
-<p><b> 1. Condicións legais da afiliación en En Marea</b></p>
-<p>
-Ao cumprimentar e enviar o formulario de inscrición o interesado pasará a ser membro de EN MAREA partido político con CIF V70498191 e será titular dos dereitos e obrigacións recoñecidos pola lexislación española a todos os inscritos en partidos políticos.
-</p>
-<p>
-A inscrición supón a aceptación expresa do manifesto de EM MAREA, así como dos métodos de participación e as fórmulas de decisión que lexitimamente se establezan.
-</p>
-<p><b>2. Protección de datos persoais</b></p>
-<p>
-enmarea, de acordo coa Lei Orgánica 15/1999 de Protección de Datos de Carácter Persoal, informa as persoas que queiran inscribirse de que os datos persoais que faciliten no formulario de inscrición serán incorporados ao ficheiro de ?afiliados? do que é responsable EN MAREA, con CIF V70498191, que os utilizará para xestionar os perfís dos afiliados, contactar con eles para xestionar o seu rexistro e facerlles chegar toda a información necesaria sobre a súa afiliación.
-</p>
-<p>
-O inscrito acepta e consente expresamente o tratamento dos seus datos persoais e a recepción de comunicacións electrónicas para os fins indicados.
-</p>
-<p>
-Salvo imperativo legal, os datos persoais dos inscritos non serán cedidos a terceiras persoas sen o seu consentimento expreso.
-</p>
-<p>
-EN MAREA cumpre con todas as medidas de seguridade para a protección de datos persoais esixidas polo Real Decreto 1720/2007, do 21 de decembro, polo que se aproba o Regulamento de desenvolvemento da Lei Orgánica 15/1999, do 13 de decembro, de protección de datos de carácter persoal.
-</p>
-<p>
-<p><b>3. Exercicios dos dereitos de acceso, rectificación, cancelación e oposición</b></p>
-<p>
-Para exercer os dereitos de acceso, rectificación, cancelación e posición o inscrito poderá utilizar os formularios dispoñibles na páxina web do perfil de usuario da web medrando.enmarea.gal ou dirixirse por correo electrónico a lopd@enmarea.gal indicando o seu nome e apelidos e achegando copia do seu DNI ou documento legal de identificación.
-</p>
-<p><b>4. Aceptación das presentes condicións xerais</b></p>
-<p>
-Ao marcar a casa ?Lin e acepto as condicións xerais" o USUARIO declara ler este aviso legal e estar conforme co seu contido.
-</p>
-<p> <b> En Marea </b></p>
-<p> <b>Versión 7 de decembro de 2016 11:05 </b> </p>
+<p>Responsable: Identidade: EN MAREA CIF: V70498191 Dir. Postal: HORTA DE ABAIXO 5B  4A, 15220 - BERTAMIRANS (A CORUÑA) Teléfono: 881972355 Correo electrónico: dpd@enmarea.gal</p>
+<p><b>Delegado de Protección de Datos:</b> BERTA BLANCO SILVA Teléfono:  677466218 Correo electrónico: dpd@enmarea.gal</p>
+<p>En nome do partido tratamos a información que nos facilita co fin de darlle de alta como afiliado/a. Os datos proporcionados conservaranse mentres se manteña a súa condición de afiliado/a ou durante os anos necesarios para cumprir coas obrigacións legais. Os datos cederanse á “Agrupación censo de actividades conxuntas” co obxecto de enviarlle comunicacións do partido, noutro caso, non se cederán a terceiros salvo nos casos en que exista unha obrigación legal, nin se elaborará ningún tipo de “perfil” en base á información facilitada nin se tomarán decisións automatizadas en base a perfís.</p>
+<p>Vostede poderá exercer os dereitos de acceso, rectificación, cancelación, supresión, oposición, limitación do tratamento, portabilidade de datos e a non ser obxecto de decisións individualizadas, automatizadas, en relación cos datos obxecto do tratamento, ante o responsable do tratamento na dirección anteriormente mencionada, ou directamente ante o delegado de protección de datos.</p>
+<p>No caso de que non obtivese satisfacción no exercicio dos seus dereitos, pode presentar unha reclamación ante a Autoridade de Control en materia Protección de Datos competente.</p>
+<p>No caso do envío de información/publicidade e non desexe seguir recibindo máis información respecto diso, vostede ten dereito a opoñerse e/ou retirar devandito consentimento, en calquera momento, facéndonolo chegar por escrito ou mediante correo electrónico na/ s dirección/é anteriormente indicada/s.</p>
+'
+    lopd:
+      privacy_policy:
+        title: 'Política de privacidade'
+        text_html: '
+<h2>POLÍTICA DE PRIVACIDADE</h2>
+<p>Infórmaselle que os datos persoais que nos facilite voluntariamente, a través dos distintos formularios da web, serán tratados por EN MAREA con domicilio en HORTA DE ABAIXO 5 B -4A 15220 - BERTAMIRANS (A Coruña), que cumpre coas medidas de seguridade esixidas na lexislación vixente en materia de Protección de Datos de Carácter Persoal. A finalidade do devandito tratamento é a descrita en cada un dos formularios establecidos na páxina web no que Vostede nos facilitou os seus datos.</p>
+<p>Os datos facilitados non serán cedidos a terceiros salvo nos casos en que exista unha obrigación legal, e conservaranse durante o tempo necesario para atender a súa solicitude a condición de que non nos indique o contrario exercendo o seu dereito de cancelación, ou durante o tempo necesario para cumprir coas obrigacións legais. </p>
+<p>EN MAREA non elaborará ningún tipo de “perfil”, en base á información facilitada. Non se tomarán decisións automatizadas en base a perfís. </p>
+<p>Así mesmo, EN MAREA cancelará ou rectificará os datos cando resulten inexactos, incompletos ou deixasen de ser necesarios para a súa finalidade, de conformidade co previsto na lexislación vixente en materia de Protección de Datos de Carácter Persoal.</p>
+<p>Mentres non nos comunique o contrario, entenderemos que os seus datos non foron modificados, que vostede se compromete a notificarnos calquera variación e que temos o consentimento para utilizalos a fin de poder fidelizar a relación entre as partes.</p>
+<p>O usuario poderá exercer os dereitos de acceso, rectificación, cancelación, supresión, oposición, limitación do tratamento, portabilidade de datos e a non ser obxecto de decisións individualizadas, automatizadas, en relación cos datos obxecto do tratamento, ante o responsable do tratamento na dirección anteriormente mencionada, ou por correo electrónico a lopd@enmarea.gal, ou directamente ante o Delegado de Protección de Datos: dpd@enmarea.gal. No caso de que non obtivese satisfacción no exercicio dos seus dereitos, poderá presentar unha reclamación ante a Autoridade de Control en materia Protección de Datos competente.</p>
+'
+      cookies_policy:
+        title: 'Política de cookies'
+        text_html: '
+<h2>POLÍTICA DE COOKIES</h2>
+<p>En cumprimento do Real Decreto Lei 13/2012, do 30 de marzo polo que se modifica a Lei de Servizos de Sociedade da Información, e relativo á utilización de cookies en páxinas Webs; EN MAREA infórmalle que este sitio web www.medrando.enmarea.gal utiliza cookies para poder medir e analizar o tráfico da Web, para facilitarlle a súa experiencia como usuario e ofrecerlle un mellor servizo. Se o desexa pode configurar o seu navegador para ser avisado en pantalla da recepción de cookies ou ben para impedir a instalación das mesmas, tendo en conta que desta forma deixaría de ter acceso a certas funcións na internet.</p>
+<h3>¿QUÉ SON AS COOKIES?</h3>
+<p>As cookies son pequenos arquivos que algunhas plataformas, como as páxinas WEB, poden instalar no teu computador, smartphone, tableta ou televisión conectada, ao acceder ás mesmas. Unha cookie almacénase nestes dispositivos para personalizar e facilitar ao máximo a navegación do usuario/a. As cookies asócianse unicamente a un/a usuario/a e o seu dispositivo, e non proporcionan referencias que permitan deducir datos persoais do mesmo/a. O/a usuario/a poderá configurar o seu navegador para que notifique ou rexeite a instalación das cookies enviadas polo sitio web.</p>
+<p>As cookies permiten que as páxinas WEB funcionen de forma máis áxil e adaptada ás preferencias do usuario/a. Por exemplo, almacenando o seu idioma ou a moeda do seu país. Ademais, axudan aos/ as responsables dos sitios web para mellorar os servizos que ofrecen, grazas á información estatística que recollen a través delas. Finalmente, serven para facer máis eficiente a publicidade que se mostra, grazas á cal se poden ofrecer servizos de forma gratuíta.</p>
+<h3>¿PARA QUÉ UTILIZA AS COOKIES ESTA PÁXINA WEB E CALES SON?</h3>
+<p>Esta páxina Web utiliza as cookies para unha serie de finalidades, incluídas:</p>
+<ul>
+<li><b>Publicidade</b>: utilízanse este tipo de cookies para facer que a publicidade sexa máis atractiva para os usuarios e máis valiosa para os editores e anunciantes. As cookies adoitan utilizarse para seleccionar anuncios baseados en contido que é relevante para un usuario, mellorar os informes de rendemento da campaña e evitar mostrar anuncios que o usuario xa vise.</li>
+<li><b>Preferencias</b>: Estas cookies permiten que os nosos sitios web lembren información que cambia o aspecto ou o comportamento do sitio como, por exemplo, o teu idioma preferido ou a rexión na que che atopas. Por exemplo, ao lembrar a túa rexión, un sitio web pode proporcionarche noticias sobre o tráfico ou boletíns meteorolóxicos locais. Estas cookies tamén che permiten cambiar o tamaño do texto, a fonte e outras partes das páxinas web que podes personalizar.</li>
+<li><b>Análise</b>: son aquelas cookies que ben, tratadas por nós ou por terceiros, permítennos cuantificar o número de usuarios e así realizar a medición e análise estatístico da utilización que fan os usuarios do servizo. Para eles analízase a súa navegación na nosa páxina web co fin de mellorar a experiencia do usuario.</li>
+<li><b>Técnicas</b>: son aquelas cookies que permiten ao usuario a navegación a través da páxina web e a utilización das diferentes opcións ou servizos que nela existan.</li>
+</ul>
+<br/>
+<p>O detalle das cookies de terceiros utilizadas nesta páxina web é o seguinte:</p>
+<ul>
+<li><b>Google Analytics</b>: Recoller información sobre a navegación dos usuarios polo sitio co fin de coñecer a orixe das visitas e outros datos similares a nivel estatístico. Non obtén datos dos nomes ou apelidos dos usuarios nin da dirección postal concreta desde onde se conectan.</li>
+<li><b>New Relic</b>: Recoller información sobre a navegación dos usuarios polo sitio co fin de coñecer a orixe das visitas e outros datos similares a nivel estatístico. Non obtén datos dos nomes ou apelidos dos usuarios nin da dirección postal concreta desde onde se conectan.</li>
+<li><b>DoubleClick:</b> Usa cookies para mellorar a publicidade. Adoitan utilizarse para orientar a publicidade segundo o contido que é relevante para un usuario, mellorar os informes de rendemento da campaña e evitar mostrar anuncios que o usuario xa vise.</li>
+</ul>
+<h3>¿CÓMO DESACTIVAR OU ELIMINAR AS COOKIES?</h3>
+<p>Pode vostede permitir, bloquear ou eliminar as cookies instaladas no seu equipo mediante a configuración das opcións propias do navegador instalado no seu equipo informático:</p>
+<ul>
+<li><b>Chrome</b>: <a herf="https://support.google.com/accounts/answer/61416?hl=es">https://support.google.com/accounts/answer/61416?hl=es</a></li>
+<li><b>Firefox</b>: <a href=https://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we">https://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we</a></li>
+<li><b>Internet Explorer</b>: <a href=https://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9">https://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9</a></li>
+<li><b>Outros navegadores:</b> consulte a documentación do navegador que teña instalado</li>
+</ul>
+'
+      conditions_use:
+        title: 'Aviso legal'
+        text_html: '
+<h2>DATOS DA ORGANIZACIÓN</h2>
+<p>En cumprimento do artigo 10 da Lei 34/2002, do 11 de xullo, de Servizos da Sociedade da Información e Comercio Electrónico, EN MAREA infórmalle que os seus datos identificativos son os seguintes:</p>
+<p>Denominación social: EN MAREA<br/>
+C.I.F: V70498191<br/>
+Domicilio social: HORTA DE ABAIXO 5B - 4A 15220 - BERTAMIRANS (A CORUÑA)<br/>
+Teléfono: 881972355<br/>
+Delegado de Protección de Datos: BERTA BLANCO SILVA Teléfono:  677466218 Correo electrónico: dpd@enmarea.gal</p>
+<p>Todas as notificacións e comunicacións entre os usuarios e EN MAREA consideraranse eficaces, para todos os efectos, cando se realicen a través de correo postal ou calquera outro medio dos detallados anteriormente.</p>
+
+<h2>CONDICIÓNS DE ACCESO E UTILIZACIÓN</h2>
+<p>O presente aviso legal regula o uso do sitio web www.medrando.enmarea.gal (en diante, A WEB), do que é titular EN MAREA.</p>
+<p>A navegación pola web de EN MAREA atribúe a condición de usuario do mesmo e implica a aceptación plena e sen reservas de todas e cada unha das disposicións incluídas neste Aviso Legal, que poden sufrir modificacións.</p>
+<p>O sitio web e os seus servizos son de acceso libre e gratuíto, con todo, EN MAREA condiciona a utilización dalgúns dos servizos ofrecidos na súa web ao previo enchemento do correspondente formulario.</p>
+<p>Todos os contidos do sitio web, como textos, fotografías, gráficos, imaxes, iconas, tecnoloxía, software, así como o seu deseño e códigos fonte, constitúen unha obra cuxa propiedade pertence a EN MAREA, sen que poidan entenderse cedidos ao usuario ningún dos dereitos de explotación sobre os mesmos máis aló do estritamente necesario para o correcto uso da web. </p>
+<p>O usuario garante a autenticidade e actualidade de todos aqueles datos que comunique a EN MAREA e será o único responsable das manifestacións falsas ou inexactas que realice. O usuario obrígase a facer un uso correcto do sitio web de conformidade coas leis, a boa fe, a orde pública, os usos do tráfico e o presente Aviso Legal. O usuario responderá fronte a EN MAREA ou fronte a terceiros, de calquera danos e prexuízos que puidesen causarse como consecuencia do incumprimento da devandita obrigación.</p>
+
+<h2>POLÍTICA DE DE LIGAZÓNS E EXENCIÓNS DE RESPONSABILIDADES</h2>
+<p>EN MAREA non se fai responsable do contido das páxinas web ás que o usuario poida acceder a través das ligazóns establecidas na WEB e declara que en ningún caso procederá a examinar ou exercitar ningún tipo de control sobre o contido doutras páxinas da rede. Así mesmo, tampouco garantirá a dispoñibilidade técnica, exactitude, veracidade, validez ou legalidade de páxinas alleas á súa propiedade ás que se poida acceder por medio das ligazóns.</p>
+<p>EN MAREA declara adoptar todas as medidas necesarias para evitar calquera danos que, aos usuarios da WEB, puidesen derivarse da navegación pola mesma. En consecuencia, EN MAREA non se fai responsable, en ningún caso, dos eventuais danos que pola navegación por Internet puidese sufrir o usuario.</p>
+
+<h2>USO DE COOKIES E DATOS ESTATÍSTICOS</h2>
+<p>Esta páxina web pode recoller datos dos seus visitantes por medio do uso de cookies. Consultar a política de cookies, no seu caso.</p>
+<p>O usuario ten a posibilidade de configurar o seu navegador de modo que se lle informe da recepción de cookies, podendo, se así o desexa, impedir que sexan instaladas no seu disco duro.</p>
+<p>A AEPD considera que os partidos políticos non son prestadores de servizos da sociedade da información, xa que as súas páxinas web non forman parte dunha actividade económica no sentido do apartado a) do Anexo da LSSI. Por tanto, non han de cumprir nin coa Lei de Cookies nin con ningún outro precepto da LSSI, sen prexuízo do disposto nela en relación con outras normas. Resolución (E/04745/2015).</p>
+
+<h2>PROTECCIÓN DE DATOS</h2>
+<p>No caso de que na web recóllanse datos de carácter persoal, para máis información consultar a <a href="/privacy-policy"> política de privacidade.</a></p>
 '
     legacy:
       password:

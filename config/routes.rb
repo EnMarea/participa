@@ -17,6 +17,8 @@ Rails.application.routes.draw do
 
   get '/preguntas-frecuentes', to: 'page#faq', as: 'faq'
   get '/privacy-policy', to: 'page#privacy_policy', as: 'page_privacy_policy'
+  get '/cookies-policy', to: 'page#cookies_policy', as: 'page_cookies_policy'
+  get '/conditions-use', to: 'page#conditions_use', as: 'page_conditions_use'
   get '/comision-de-garantias-democraticas', to: 'page#guarantees', as: 'guarantees'
 =begin
     get '/openid/discover', to: 'open_id#discover', as: "open_id_discover"

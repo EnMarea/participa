@@ -1,7 +1,14 @@
-<% unless cookies[:cookiepolicy].present? %>
-    <div class="cookie">
-      <%= t '.cookie_html' %>
-
-      <a class="close" id="close_cookie" href="#">X</a>
+<% unless cookies[:cookiepolicy].present? or request.env['PATH_INFO'] == "/cookies-policy" %>
+  <div class=" cookie modal fade">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-body">
+          <%= t '.cookie_html' %>
+        </div>
+        <div class="modal-footer">
+          <a class="button close" id="close_cookie" href="#" data-dismiss="modal">ACEPTAR</a>
+        </div>
+      </div>
     </div>
+  </div>
 <% end %>

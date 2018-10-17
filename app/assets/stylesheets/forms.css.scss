@@ -50,6 +50,12 @@ box info & alerts
 .box-info p{
   color:#004fff;
 }
+.box-info li{
+  color:#004fff;
+  font-size: 1.4em;
+  list-style-type: circle;
+  margin-bottom: 1em;
+}
 .box-ko p:last-of-type,
 .box-ok p:last-of-type,
 .box-info p:last-of-type{
